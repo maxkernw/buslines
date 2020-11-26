@@ -1,2 +1,25 @@
-server/.gitignore
-client/.gitignore
+server/HELP.md
+server/target/
+server/!.mvn/wrapper/maven-wrapper.jar
+server/!**/src/main/**/target/
+server/!**/src/test/**/target/
+
+### STS ###
+server/.apt_generated
+server/.classpath
+server/.factorypath
+server/.project
+server/.settings
+server/.springBeans
+server/.sts4-cache
+
+### IntelliJ IDEA ###
+server/.idea
+server/*.iws
+server/*.iml
+server/*.ipr
+
+### VS Code ###
+.vscode/
+
+client/node_modules/
