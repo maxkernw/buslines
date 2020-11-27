@@ -24,7 +24,7 @@ You can register your own account at Trafiklab.
 
 ### Built With
 * BACKEND: Java.15:SpringBoot. 
-* FRONTEND: 'vanilla' JS using webpack as a bundeler and jasmine for testing.
+* FRONTEND: 'vanilla' JS, webpack and jasmine for testing (and some workarounds to get web-comps testable).
 
 * [Java](https://www.java.com/sv/)
 * [Spring](https://spring.io/)
