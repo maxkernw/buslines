@@ -1,7 +1,7 @@
 # Stage 1 - the build process
 FROM node:14 as build-deps
 WORKDIR /usr/src/app
-COPY package.json yarn.lock ./
+COPY package.json ./
 RUN yarn
 COPY . ./
 RUN yarn build
