@@ -49,6 +49,20 @@ The easiest way to get get application running is by executing the setup script 
   ```sh
   bash ./setup.sh
   ```
+
+## Building manually
+
+```sh
+cd server && ./mvnw install 
+ ```
+
+```sh 
+cd client && npm install && npm run build 
+```
+```sh
+docker-compose up
+```
+
 And browse to http://localhost:9090 (frontend) http://localhost:8080 (backend)
 
 ## Tests <WebComponents>
