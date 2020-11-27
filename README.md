@@ -23,8 +23,8 @@ You can register your own account at Trafiklab.
 
 
 ### Built With
-* The backend is built in Java.15:SpringBoot. 
-* The frontend is built with 'vanilla' JS using webpack as a bundeler and jasmine for testing.
+* BACKEND: Java.15:SpringBoot. 
+* FRONTEND: 'vanilla' JS using webpack as a bundeler and jasmine for testing.
 
 * [Java](https://www.java.com/sv/)
 * [Spring](https://spring.io/)
@@ -49,6 +49,7 @@ The easiest way to get get application running is by executing the setup script 
   ```sh
   bash ./setup.sh
   ```
+And browse to http://localhost:9090 (frontend) http://localhost:8080 (backend)
 
 ## Tests <WebComponents>
 You can run the frontend unit tests by executing:
