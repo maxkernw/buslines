@@ -24,3 +24,5 @@ server/*.ipr
 
 client/node_modules/
 client/dist/bundle*
+client/yarn.lock.json
+client/package.lock.json

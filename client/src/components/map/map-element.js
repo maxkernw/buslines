@@ -42,7 +42,6 @@ export class MapElement extends BaseElement {
             this.map.resize();
             this.mapContainer.style.opacity = .2;
             this.loading.style.opacity = 0;
-            console.log('loaded')
             document.dispatchEvent(new CustomEvent('mapLoaded', {}))
         })
     }
