@@ -6,7 +6,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[]()
+![alt text](https://media.giphy.com/media/CpmvCkiObmCUrpQLhk/giphy.gif)
+
   
 * The task is to write an application to find out which bus lines that have the most bus
 stops on their route, and to present the top 10 bus lines in a nice and formatted way
